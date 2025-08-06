@@ -87,12 +87,7 @@ lib/
 
 ## 📸 Screenshots
 
-![1](https://github.com/user-attachments/assets/ca8098ad-0cd5-47b2-820c-53061fff2d44)
-![2](https://github.com/user-attachments/assets/d9d3bf4f-a21b-4027-92c3-f2ec9e7d1769)
-![3](https://github.com/user-attachments/assets/19ff1fdb-e2be-457c-95af-804f32cac9f8)
-![4](https://github.com/user-attachments/assets/f9e97b8e-5517-4de4-8994-e58879007509)
-![5](https://github.com/user-attachments/assets/7eb2bbcb-e3b5-4490-b94f-ccab63f5fe23)
-![6](https://github.com/user-attachments/assets/3334c3bb-7ac9-441f-9c7f-a0c72a4bebe1)
+View Screenshots here https://github.com/geetha-3011/Task-Manager/tree/main/Screenshots
 
 
 
