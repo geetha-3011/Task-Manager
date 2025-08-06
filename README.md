@@ -20,6 +20,16 @@
 
 ---
 
+## 📦 APK File
+
+You can download the working APK from the [`/apk`](https://github.com/geetha-3011/Task-Manager/tree/main/apk) folder, or [click here to download the latest release APK](https://github.com/geetha-3011/Task-Manager/releases/download/v1.0.1/Todo.apk).
+Alternatively, you can generate it yourself using the following command:
+
+```bash
+flutter build apk --release
+```
+
+---
 ## 🛠 Tech Stack
 
 - *Framework:* Flutter
@@ -103,12 +113,6 @@ You can download the working APK from the [`/apk`](https://github.com/geetha-301
 
 
 ---
-
-
-Alternatively, you can generate it yourself using the following command:
-
-```bash
-flutter build apk --release
 
 ## 🏁 Final Note
 
