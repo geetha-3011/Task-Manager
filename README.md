@@ -97,6 +97,10 @@ View Screenshots here https://github.com/geetha-3011/Task-Manager/tree/main/Scre
 
 
 
+## 📦 APK File
+
+You can download the working APK from the [`/apk`](https://github.com/geetha-3011/Task-Manager/tree/main/apk) folder, or [click here to download the latest release APK](https://github.com/geetha-3011/Task-Manager/releases/download/v1.0.1/Todo.apk).
+
 
 ---
 
