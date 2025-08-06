@@ -1,16 +1,117 @@
-# task_manager
+# Task Manager
 
-A new Flutter project.
+*A cross-platform task management app with Google login, offline support, and full CRUD features built using Flutter for the Katomaran Mobile App Hackathon.*
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 📱 Features
 
-A few resources to get you started if this is your first Flutter project:
+- ✅ Google social login integration
+- ✅ Error handling on login failure
+- ✅ Full task CRUD support: Create, Read, Update, Complete, Delete
+- ✅ Fields: title, description, due date, status (open/complete)
+- ✅ Clean and responsive UI with animations
+- ✅ In-app local state management
+- ✅ Floating Action Button for quick task creation
+- ✅ Task search, filter, and sort options
+- ✅ "No tasks" empty state UI
+- ✅ Swipe-to-delete and pull-to-refresh functionality
+- ✅ Crash reporting integrated via Firebase Crashlytics
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🛠 Tech Stack
+
+- *Framework:* Flutter
+- *Auth Provider:* Google (via Firebase Auth)
+- *Database:* Firebase Firestore (cloud-based)
+- *Crash Reporting:* Firebase Crashlytics
+- *State Management:* setState (or Provider if applicable)
+- *Animations:* Flutter Animated Widgets
+
+---
+
+## 🚀 Getting Started
+
+### 1. Prerequisites
+
+- Flutter SDK
+- Dart SDK
+- Firebase Project Setup (with Google Sign-In enabled)
+
+### 2. Clone the Repository
+
+bash
+git clone https://github.com/yourusername/task_manager.git
+cd task_manager
+
+
+### 3. Install Dependencies
+
+bash
+flutter pub get
+
+
+### 4. Run the App
+
+bash
+flutter run
+
+
+> 📦 To generate the APK:
+bash
+flutter build apk --release
+
+
+---
+
+## 📂 Folder Structure
+
+bash
+lib/
+ ┣ Model/
+ ┣ View/
+ ┣ Controller/
+ ┗ main.dart
+
+
+---
+
+## 🧠 Assumptions
+
+- Only *Google login* is implemented for simplicity, even though others were allowed.
+- All tasks are stored on Firebase and also temporarily cached in session/local state.
+- Firebase is assumed to be pre-configured before running the app.
+
+---
+
+## 📸 Screenshots
+
+_Add your screenshots here or in the /screenshots folder_
+
+---
+
+## 🎥 Demo Video
+
+[👉 Click here to view the demo on Loom](https://loom.com/your-video-link)
+
+---
+
+## 🧭 Architecture Diagram
+
+![Architecture Diagram](Architecture.png)
+
+
+---
+
+## 📦 APK File
+
+You can download the working APK from the /apk folder or generate it using the build command.
+
+---
+
+## 🏁 Final Note
+
+This project is a part of a hackathon run by [https://www.katomaran.com](https://www.katomaran.com)
+
+---
