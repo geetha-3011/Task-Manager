@@ -106,7 +106,7 @@ _Add your screenshots here or in the [/screenshots folder_](https://github.com/g
 
 ## 📦 APK File
 
-You can download the working APK from the [`/apk`](https://github.com/geetha-3011/Task-Manager/tree/main/apk) folder, or [click here to download the latest release APK](https://github.com/geetha-3011/Task-Manager/releases/download/v1.0.1/app-release.apk).
+You can download the working APK from the [`/apk`](https://github.com/geetha-3011/Task-Manager/tree/main/apk) folder, or [click here to download the latest release APK](https://github.com/geetha-3011/Task-Manager/releases/v1.0.1/Todo.apk).
 
 Alternatively, you can generate it yourself using the following command:
 
