@@ -90,13 +90,6 @@ lib/
 View Screenshots here https://github.com/geetha-3011/Task-Manager/tree/main/Screenshots
 
 
-
----
-
-## 🎥 Demo Video
-
-[👉 Click here to view the demo on Loom](https://loom.com/your-video-link)
-
 ---
 
 ## 🧭 Architecture Diagram
@@ -107,10 +100,6 @@ View Screenshots here https://github.com/geetha-3011/Task-Manager/tree/main/Scre
 
 ---
 
-## 📦 APK File
-
-You can download the working APK from the [`/apk`](https://github.com/geetha-3011/Task-Manager/tree/main/apk) folder, or [click here to download the latest release APK](https://github.com/geetha-3011/Task-Manager/releases/Todo.apk](https://github.com/geetha-3011/Task-Manager/releases/download/v1.0.1/Todo.apk
-).
 
 Alternatively, you can generate it yourself using the following command:
 
