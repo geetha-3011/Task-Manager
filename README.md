@@ -87,7 +87,7 @@ lib/
 
 ## 📸 Screenshots
 
-_Add your screenshots here or in the /screenshots folder_
+_Add your screenshots here or in the [/screenshots folder_](https://github.com/geetha-3011/Task-Manager/tree/main/Screenshots)
 
 ---
 
