@@ -52,7 +52,7 @@ flutter build apk --release
 ### 2. Clone the Repository
 
 bash
-git clone https://github.com/yourusername/task_manager.git
+git clone https://github.com/geetha-3011/task_manager.git
 cd task_manager
 
 
